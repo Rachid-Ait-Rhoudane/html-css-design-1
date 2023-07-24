@@ -505,4 +505,9 @@ footer span{
     margin: 0 5px;
     color: var(--main-color);
 }
+@media (max-width: 400px){
+    footer{
+        font-size: 12px;
+    }
+}
 /* End footer */
